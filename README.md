@@ -2,7 +2,7 @@
 
 A lightweight Python library for creating and visualizing MRI pulse sequences with animated k-space trajectories.
 
-![SE-EPI k-space](output/se_epi_64_kspace.mp4)
+<video src="https://github.com/AbdallahAbou/MRI-seq/raw/master/output/spiral_64_kspace.mp4" controls width="600"></video>
 
 ## Features
 
@@ -15,7 +15,7 @@ A lightweight Python library for creating and visualizing MRI pulse sequences wi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MRI-seq.git
+git clone https://github.com/AbdallahAbou/MRI-seq
 cd MRI-seq
 
 # Create virtual environment (optional)
